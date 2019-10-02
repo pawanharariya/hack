@@ -1,3 +1,6 @@
 Hello its git
 
 Welcome to Open source!!
+
+hacktober!!
+
