@@ -2,5 +2,6 @@ Hello its git
 
 Welcome to Open source!!
 
-hacktober!!
+Welcome to Hacktober fest!
+
 
