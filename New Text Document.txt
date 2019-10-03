@@ -3,3 +3,4 @@ Hello its git
 Welcome to Open source!!
 
 Learn More about git
+1. Install gitbash on your pc
